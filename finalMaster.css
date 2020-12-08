@@ -1,0 +1,72 @@
+body {
+
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-color: #464646;
+}
+
+.placement {
+  position: relative;
+  top: 130px;
+  left: 800px;
+
+}
+
+
+
+.frontPage{
+  position: relative;
+  top: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.cherub{
+  position: relative;
+  top: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+  .center {
+    position: relative;
+    top: 140px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.centerThis {
+  position: relative;
+  top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.centerGrass {
+  position: relative;
+  top: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+.centerMax {
+  position: relative;
+  top: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: cover;
+}
